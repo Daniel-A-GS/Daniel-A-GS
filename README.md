@@ -17,9 +17,10 @@
 - **Generador de Redes IIoT y simulación de propagación de malware**  
   [Repo aquí](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware) – Modelado de redes complejas usando topologías predefinidas de redes para simular redes IIoT reales y ver como se comportan antes ataques de malware. 
 
-- Estudiante de **Matemáticas Aplicadas** en la UNAM  
-- Profesor Adjunto de **Redes Complejas**  
-- Intereses: Finanzas, biología, salud, ciencia de datos y sistemas complejos
+# Sobre mí
+- Estudio **Matemáticas Aplicadas** en la Facultad de Ciencias de la Universidad Nacional Autónoma de México  
+- Soy Profesor Adjunto de la materia **Seminario de Matemáticas Aplicadas: Redes Complejas**  
+- Me interesan mucho los temas de 💹 finanzas, 🧬 biología, 🏥 salud, 📊 ciencia de datos y 🌐 sistemas complejos
 
 
 # Contactame

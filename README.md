@@ -12,15 +12,21 @@
 </p>
 
 # Proyectos Destacados
-- **Optimización de portafolios con RL (PPO)**  
-  [Repo aquí](https://github.com/Daniel-A-GS/Optimizacion-de-Portafolios-Aprendizaje-por-Refuerzo) – Algoritmo de aprendizaje por refuerzo (PPO) para asignación dinámica de capital en acciones del Nasdaq100.    
-- **Generador de Redes IIoT y simulación de propagación de malware**  
-  [Repo aquí](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware) – Modelado de redes complejas usando topologías predefinidas de redes para simular redes IIoT reales y ver como se comportan antes ataques de malware. 
+- [**Optimización de portafolios con RL (PPO)**](https://github.com/Daniel-A-GS/Optimizacion-de-Portafolios-Aprendizaje-por-Refuerzo)     
+- [**Generador de Redes IIoT y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)
 
 # Sobre mí
 - Estudio **Matemáticas Aplicadas** en la Facultad de Ciencias de la Universidad Nacional Autónoma de México  
 - Soy Profesor Adjunto de la materia **Seminario de Matemáticas Aplicadas: Redes Complejas**  
 - Me interesan mucho los temas de 💹 finanzas, 🧬 biología, 🏥 salud, 📊 ciencia de datos y 🌐 sistemas complejos
+
+# Cursos:
+- [**Redes Complejas (Parte aplicada)**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)
+  - Manipulación de datos con Numpy y Pandas
+  - Modelado de redes complejas de diversas áreas (música, finanzas, transporte) con NetowrkX 
+  - Visualización de datos con Matplotlib y Seaborn
+  - Consumo de APIs para obtención de datos
+  - Introducción a Git y Anaconda
 
 
 # Contactame

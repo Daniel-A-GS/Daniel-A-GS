@@ -11,6 +11,9 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/>
 </p>
 
+# Actualmente trabajando en:
+- ​[**2025 ISAC – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?tk=Oblwtc)
+
 # Proyectos Destacados
 - [**Optimización de portafolios con RL (PPO)**](https://github.com/Daniel-A-GS/Optimizacion-de-Portafolios-Aprendizaje-por-Refuerzo)
 - [**Analisis de Estabilidad del S&P500**](https://github.com/Daniel-A-GS/Analisis-de-Estabilidad-de-Mercados-Financieros)

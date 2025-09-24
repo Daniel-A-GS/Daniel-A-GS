@@ -1,4 +1,6 @@
-# ¡Hola! Soy [Daniel García](https://www.linkedin.com/in/daniel-garcia-data-analyst/)
+# ¡Hola, Soy [Daniel García](https://www.linkedin.com/in/daniel-garcia-data-analyst/)!
+
+### Data Analysis | Sistemas Complejos | API | Machine Learning | Reinforcement Learning | Data Visualization
 
 <!-- Python-->
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="150">](https://docs.python.org/3/library/index.html)

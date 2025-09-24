@@ -26,7 +26,7 @@
 # Sobre mí
 - Estudio **Matemáticas Aplicadas** en la Facultad de Ciencias de la Universidad Nacional Autónoma de México  
 - Soy Profesor Adjunto de la materia **Seminario de Matemáticas Aplicadas: Redes Complejas**  
-- Me interesan mucho los temas de 💹 finanzas, 🧬 biología, 🏥 salud, 📊 ciencia de datos y 🌐 sistemas complejos
+- Mis intereses: Política, finanzas, biología, salud, ciencia de datos y sistemas complejos
 
 # Cursos:
 - [**Redes Complejas (Parte aplicada)**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)

@@ -2,6 +2,8 @@
 
 ### Data Analysis | Sistemas Complejos | API | Machine Learning | Reinforcement Learning | Data Visualization
 
+# 🛠️ Tech Stack
+
 <!-- Python-->
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="150">](https://docs.python.org/3/library/index.html)
 <!-- Librerías Python -->
@@ -17,20 +19,20 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" alt="Postman" width="350">](https://postman.com/)
 
 
-# Actualmente trabajando en:
+# 🧠 Actualmente trabajando en:
 - ​[**2025 ISAC – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?tk=Oblwtc)
 
-# Proyectos Destacados
+# 🌟 Proyectos Destacados
 - [**Optimización de portafolios con RL (PPO)**](https://github.com/Daniel-A-GS/Optimizacion-de-Portafolios-Aprendizaje-por-Refuerzo)
 - [**Analisis de Estabilidad del S&P500**](https://github.com/Daniel-A-GS/Analisis-de-Estabilidad-de-Mercados-Financieros)
 - [**Generador de Redes IIoT y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)
 
-# Sobre mí
+# 🙋🏻‍♂️ Sobre mí
 - Estudio **Matemáticas Aplicadas** en la Facultad de Ciencias de la Universidad Nacional Autónoma de México  
 - Soy Profesor Adjunto de la materia **Seminario de Matemáticas Aplicadas: Redes Complejas**  
 - Mis intereses: Política, finanzas, biología, salud, ciencia de datos y sistemas complejos
 
-# Cursos:
+# 🎓 Cursos:
 - [**Redes Complejas (Parte aplicada)**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)
   - Manipulación de datos con Numpy y Pandas
   - Modelado de redes complejas de diversas áreas (música, finanzas, transporte) con NetowrkX 
@@ -39,7 +41,7 @@
   - Introducción a Git y Anaconda
 
 
-# Contactame
+# 📬 Contactame
 
 <a href="linkedin.com/in/daniel-garcia-data-analyst/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />

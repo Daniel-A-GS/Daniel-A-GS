@@ -2,7 +2,7 @@
 
 ### Data Analysis | Sistemas Complejos | API | Machine Learning | Reinforcement Learning | Data Visualization
 
-# 🛠️ Tech Stack
+# 🤖 Tech Stack
 
 <!-- Python-->
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="150">](https://docs.python.org/3/library/index.html)
@@ -22,7 +22,7 @@
 # 🧠 Actualmente trabajando en:
 Complex Network professor @ Facultad de Ciencias UNAM
 
-# Concursos
+# 🏆 Concursos
 - ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://github.com/Daniel-A-GS/Smart-Scouting-and-Team-Simulation)
 - 5th place on [**MeIA 2025 (UNAM) - Sargazo prediction**](https://www.kaggle.com/competitions/meia-2025-sargazo-prediction/leaderboard)
 
@@ -31,7 +31,7 @@ Complex Network professor @ Facultad de Ciencias UNAM
 - [**Analisis de Estabilidad del S&P500**](https://github.com/Daniel-A-GS/Analisis-de-Estabilidad-de-Mercados-Financieros)
 - [**Generador de Redes IIoT y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)
 
-# 🙋🏻‍♂️ Sobre mí
+# 🐼 Sobre mí
 - Estudio **Matemáticas Aplicadas** en la Facultad de Ciencias de la Universidad Nacional Autónoma de México  
 - Soy Profesor Adjunto de la materia **Seminario de Matemáticas Aplicadas: Redes Complejas**  
 - Mis intereses: Política, finanzas, biología, salud, ciencia de datos y sistemas complejos

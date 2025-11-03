@@ -36,14 +36,8 @@ Complex Network professor @ Facultad de Ciencias UNAM
 - Soy Profesor Adjunto de la materia **Seminario de Matemáticas Aplicadas: Redes Complejas**  
 - Mis intereses: Política, finanzas, biología, salud, ciencia de datos y sistemas complejos
 
-# 🎓 Cursos:
-- [**Redes Complejas (Parte aplicada)**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)
-  - Manipulación de datos con Numpy y Pandas
-  - Modelado de redes complejas de diversas áreas (música, finanzas, transporte) con NetowrkX 
-  - Visualización de datos con Matplotlib y Seaborn
-  - Consumo de APIs para obtención de datos
-  - Introducción a Git y Anaconda
-
+# 🎓 Cursos Impartidos:
+- [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)
 
 # 📬 Contactame
 

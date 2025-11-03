@@ -24,7 +24,7 @@ Complex Network professor @ Facultad de Ciencias UNAM
 
 # 🏆 Concursos
 - __th place on ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc)
-- 5th place on [**MeIA 2025 (UNAM) - Sargazo prediction**](https://www.kaggle.com/competitions/meia-2025-sargazo-prediction/leaderboard)
+- 5th place on [**2025 MeIA (UNAM) - Sargazo prediction**](https://www.kaggle.com/competitions/meia-2025-sargazo-prediction/leaderboard)
 
 # 🌟 Proyectos Destacados
 - [**Optimización de portafolios con RL (PPO)**](https://github.com/Daniel-A-GS/Optimizacion-de-Portafolios-Aprendizaje-por-Refuerzo)

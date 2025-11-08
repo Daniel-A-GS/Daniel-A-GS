@@ -1,6 +1,8 @@
 # ¡Hola, Soy [Daniel García](https://www.linkedin.com/in/daniel-garcia-data-analyst/)!
 
-### Data Analysis | Sistemas Complejos | API | Machine Learning | Reinforcement Learning | Data Visualization
+### Me enfoco en convertir la complejidad e incertidumbre del mundo en soluciones inteligentes. 
+
+### Data Analysis | Complex Systems | Machine Learning | Reinforcement Learning 
 
 # 🤖 Tech Stack
 

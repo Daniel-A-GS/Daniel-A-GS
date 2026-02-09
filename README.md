@@ -36,6 +36,7 @@
 
 # 🎓 Cursos Impartidos:
 - [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)
+- [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-26-2).
 
 # 📬 Contactame
 

@@ -30,9 +30,9 @@
 - [**Generador de Redes IIoT y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)
 
 # 🐼 Sobre mí
-- Estudio **Matemáticas Aplicadas** en la Facultad de Ciencias de la Universidad Nacional Autónoma de México  
-- Soy Profesor Adjunto de la materia **Seminario de Matemáticas Aplicadas: Redes Complejas**  
-- Mis intereses: Política, finanzas, biología, salud, ciencia de datos y sistemas complejos
+- Matemático Aplicado, Facultad de Ciencias, UNAM. 
+- Profesor Adjunto, [Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa.](https://web.fciencias.unam.mx/directorio/104475)
+- Mis intereses: Geoolítica, finanzas, ciencia de datos, machine learning y sistemas complejos
 
 # 🎓 Cursos Impartidos:
 - [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)

@@ -18,6 +18,9 @@
   <img src="https://snap.stanford.edu/images/snap_logo.png" height="100"/>
   <img src="https://private-user-images.githubusercontent.com/10035780/517915567-47e16a25-cd58-41eb-9ccd-b40191758d91.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEwMTkwOTYsIm5iZiI6MTc3MTAxODc5NiwicGF0aCI6Ii8xMDAzNTc4MC81MTc5MTU1NjctNDdlMTZhMjUtY2Q1OC00MWViLTljY2QtYjQwMTkxNzU4ZDkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjEzVDIxMzk1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiMGJiZjA2OWNiZWQ5NzZhYzk1NDkzNTM5Mzg4MDJhMDgzM2ViM2ZjMTZiYWQyNGM0ZTU2OTI2YjIzNTZlYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wYzNw-af1_c_AAKH3KHQ21b3XOuAfoFqsDRBvCixGzw" height="100"/>
   <img src="https://igraph.org/img/igraph_logo_black.svg" height="100"/>
+  <img src="https://avatars.githubusercontent.com/u/85237625?s=200&v=4" height="100"/>
+  <img src="https://www.pathpy.net/0.2.0-dev/img/pathpy_logo_white.png" height="100"/>
+  
 </p>
 
 <!-- POSTMAN-->

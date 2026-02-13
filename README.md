@@ -15,7 +15,7 @@
   <img src="https://matplotlib.org/stable/_static/logo_light.svg" height="60"/>
   <img src="https://networkx.org/_static/networkx_logo.svg" height="60"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/>
-  <img src="https://snap.stanford.edu/images/snap_logo.svg" height="60"/>
+  <img src="https://snap.stanford.edu/images/snap_logo.png" height="60"/>
 </p>
 
 <!-- POSTMAN-->

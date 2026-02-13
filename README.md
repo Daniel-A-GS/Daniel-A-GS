@@ -20,7 +20,7 @@
   <img src="https://igraph.org/img/igraph_logo_black.svg" height="100"/>
   <img src="https://avatars.githubusercontent.com/u/85237625?s=200&v=4" height="100"/>
   <img src="https://www.pathpy.net/0.2.0-dev/img/pathpy_logo_white.png" height="100"/>
-  
+  <img src="https://hypernetx.readthedocs.io/en/latest/_static/hnx_logo_smaller.png" height="100"/>
 </p>
 
 <!-- POSTMAN-->

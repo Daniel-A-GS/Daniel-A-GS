@@ -7,7 +7,7 @@
 # 🤖 Tech Stack
 
 <!-- Python-->
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="150">](https://docs.python.org/3/library/index.html)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">](https://docs.python.org/3/library/index.html)
 <!-- Librerías Python -->
 <p>
   <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" height="60"/>
@@ -24,7 +24,7 @@
 </p>
 
 <!-- POSTMAN-->
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" alt="Postman" width="350">](https://postman.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" alt="Postman" width="250">](https://postman.com/)
 
 # 🏆 Concursos
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc)

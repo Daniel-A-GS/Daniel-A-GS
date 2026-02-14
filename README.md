@@ -22,7 +22,7 @@ FinRL
 ### Network Science
 NetworkX · Teneto · SNAP · Py3Plex · igraph · pymnet
 
-### Higher-Order Networks & Topological Methods
+### Topological Data Analysis
 XGI · pathpy · HyperNetX 
 
 # 🏆 Concursos

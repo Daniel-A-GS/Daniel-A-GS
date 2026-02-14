@@ -4,27 +4,26 @@
 
 ### Data Analysis | Complex Systems | Machine Learning | Reinforcement Learning 
 
-# 🤖 Tech Stack
+# 💡 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<!-- Python-->
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">](https://docs.python.org/3/library/index.html)
-<!-- Librerías Python -->
-<p>
-  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" height="60"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" height="60"/>
-  <img src="https://matplotlib.org/stable/_static/logo_light.svg" height="60"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/>
-  <img src="https://networkx.org/_static/networkx_logo.svg" height="60"/>
-  <img src="https://snap.stanford.edu/images/snap_logo.png" height="100"/>
-  <img src="https://private-user-images.githubusercontent.com/10035780/517915567-47e16a25-cd58-41eb-9ccd-b40191758d91.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEwMTkwOTYsIm5iZiI6MTc3MTAxODc5NiwicGF0aCI6Ii8xMDAzNTc4MC81MTc5MTU1NjctNDdlMTZhMjUtY2Q1OC00MWViLTljY2QtYjQwMTkxNzU4ZDkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjEzVDIxMzk1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiMGJiZjA2OWNiZWQ5NzZhYzk1NDkzNTM5Mzg4MDJhMDgzM2ViM2ZjMTZiYWQyNGM0ZTU2OTI2YjIzNTZlYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wYzNw-af1_c_AAKH3KHQ21b3XOuAfoFqsDRBvCixGzw" height="100"/>
-  <img src="https://igraph.org/img/igraph_logo_black.svg" height="100"/>
-  <img src="https://avatars.githubusercontent.com/u/85237625?s=200&v=4" height="100"/>
-  <img src="https://www.pathpy.net/0.2.0-dev/img/pathpy_logo_white.png" height="70"/>
-  <img src="https://hypernetx.readthedocs.io/en/latest/_static/hnx_logo_smaller.png" height="70"/>
-</p>
+### Data Analysis
+NumPy · Pandas · Matplotlib · Seaborn
 
-<!-- POSTMAN-->
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" alt="Postman" width="250">](https://postman.com/)
+### Machine Learning
+FinRL
+
+### Network Science
+NetworkX · Teneto · SNAP · Py3Plex · igraph · pymnet
+
+### Higher-Order Networks & Topological Methods
+XGI · pathpy · HyperNetX 
 
 # 🏆 Concursos
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc) Noviembre 2025

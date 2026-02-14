@@ -38,7 +38,7 @@
 # 🐼 Sobre mí
 - Matemático Aplicado, Facultad de Ciencias, UNAM. 
 - Profesor Adjunto, [Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa.](https://www.fciencias.unam.mx/directorio/104475)
-- Mis intereses: Geoolítica, finanzas, ciencia de datos, machine learning y sistemas complejos
+- Mis intereses: Geopolítica, finanzas, ciencia de datos, machine learning y sistemas complejos
 
 # 🎓 Cursos Impartidos:
 - [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)

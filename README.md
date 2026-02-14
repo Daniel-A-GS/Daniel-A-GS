@@ -41,8 +41,8 @@
 - Mis intereses: Geopolítica, finanzas, ciencia de datos, machine learning y sistemas complejos
 
 # 🎓 Cursos Impartidos:
-- [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1)
-- [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-26-2).
+- [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1). Agosto 2025 - Diciembre 2025
+- [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-26-2). Febrero 2026 - Mayo 2026
 
 # 📬 Contactame
 

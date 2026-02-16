@@ -17,13 +17,13 @@
 NumPy · Pandas · Matplotlib · Seaborn
 
 ### Machine Learning
-FinRL
+Scikit-learn · FinRL
 
 ### Network Science
 NetworkX · Teneto · SNAP · Py3Plex · igraph · pymnet
 
-### Topological Data Analysis
-XGI · pathpy · HyperNetX 
+### Topological Data Analysis  
+XGI · ripser · persim · scikit-tda · pathpy · HyperNetX
 
 # 🏆 Concursos
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc) Noviembre 2025

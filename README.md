@@ -23,7 +23,7 @@ Scikit-learn · FinRL
 NetworkX · igraph · SNAP · Teneto · pymnet · Py3Plex
 
 ### Topological Data Analysis  
-XGI · ripser · persim · scikit-tda · pathpy · HyperNetX
+ripser · persim · scikit-tda · XGI · HyperNetX · pathpy
 
 # 🏆 Concursos
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc) Noviembre 2025

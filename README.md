@@ -1,6 +1,4 @@
-# ¡Hola, Soy [Daniel García](https://www.linkedin.com/in/daniel-garcia-data-analyst/)!
-
-### Me enfoco en convertir la complejidad e incertidumbre del mundo en soluciones inteligentes. 
+## Hola, Soy [Daniel García](https://www.linkedin.com/in/daniel-garcia-data-analyst/) y me enfoco en convertir la complejidad e incertidumbre del mundo en soluciones inteligentes. 
 
 ### Data Analysis | Complex Systems | Machine Learning | Reinforcement Learning 
 

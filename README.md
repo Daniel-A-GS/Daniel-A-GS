@@ -6,9 +6,9 @@
 
 # 💡 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -41,8 +41,8 @@ ripser · persim · scikit-tda · XGI · HyperNetX · pathpy
 - Mis intereses: Geopolítica, finanzas, ciencia de datos, machine learning y sistemas complejos
 
 # 🎓 Cursos Impartidos:
-- [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1). Agosto 2025 - Diciembre 2025
 - [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-26-2). Febrero 2026 - Mayo 2026
+- [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1). Agosto 2025 - Diciembre 2025
 
 # 📬 Contactame
 

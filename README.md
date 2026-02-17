@@ -20,7 +20,7 @@ NumPy · Pandas · Matplotlib · Seaborn
 Scikit-learn · FinRL
 
 ### Network Science
-NetworkX · Teneto · SNAP · Py3Plex · igraph · pymnet
+NetworkX · igraph · SNAP · Teneto · pymnet · Py3Plex
 
 ### Topological Data Analysis  
 XGI · ripser · persim · scikit-tda · pathpy · HyperNetX

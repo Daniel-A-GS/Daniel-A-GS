@@ -18,7 +18,7 @@
 NumPy · Pandas · Matplotlib · Seaborn
 
 ### Machine Learning
-Scikit-learn · FinRL
+Scikit-learn · FinRL · PyG · DGL
 
 ### Network Science
 NetworkX · igraph · SNAP · Teneto · pymnet · Py3Plex

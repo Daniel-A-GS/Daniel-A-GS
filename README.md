@@ -2,7 +2,7 @@
 
 ## Me enfoco en convertir la complejidad e incertidumbre del mundo en soluciones inteligentes. 
 
-### Data Analysis | Complex Systems | Machine Learning | Reinforcement Learning 
+### Network Data Scientist | Complex Systems | Topological Data Analysis | Reinforcement Learning 
 
 # 💡 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

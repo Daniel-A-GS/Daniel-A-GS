@@ -18,13 +18,13 @@
 NumPy · Pandas · Matplotlib · Seaborn
 
 ### Machine Learning
-Scikit-learn · FinRL · PyG · DGL
+Scikit-learn · FinRL · PyG · DGL · Scikit-network
 
 ### Network Science
 NetworkX · igraph · SNAP · Teneto · pymnet · Py3Plex
 
 ### Topological Data Analysis  
-ripser · persim · scikit-tda · XGI · HyperNetX · pathpy
+ripser · persim · scikit-tda · XGI · HyperNetX · pathpy · topologicpy 
 
 # 🏆 Concursos
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc) Noviembre 2025 [[Código](https://github.com/Daniel-A-GS/Smart-Scouting-and-Team-Simulation)]

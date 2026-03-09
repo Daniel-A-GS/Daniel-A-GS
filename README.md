@@ -1,8 +1,6 @@
 # ¡Hola, Soy [Daniel García](https://www.linkedin.com/in/daniel-garcia-data-analyst/)!
 
-## Me enfoco en convertir la complejidad e incertidumbre del mundo en soluciones inteligentes. 
-
-### Network Data Scientist | Complex Systems | Topological Data Analysis | Reinforcement Learning 
+### Network Data Scientist | Complex Systems & HONs | ML & RL
 
 [![Contributor @](https://img.shields.io/badge/Contributor_@-Py3Plex-b10c43?style=for-the-badge&logo=github)](https://github.com/SkBlaz/Py3Plex)
 

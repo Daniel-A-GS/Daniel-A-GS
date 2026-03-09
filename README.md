@@ -4,6 +4,8 @@
 
 ### Network Data Scientist | Complex Systems | Topological Data Analysis | Reinforcement Learning 
 
+[![Contribuidor Oficial](https://img.shields.io/badge/Contribuidor-Py3Plex-b10c43?style=for-the-badge&logo=github)](https://github.com/SkBlaz/Py3Plex)
+
 # 💡 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)

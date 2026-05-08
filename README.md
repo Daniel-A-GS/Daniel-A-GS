@@ -35,14 +35,14 @@ ripser · persim · scikit-tda · XGI · HyperNetX · pathpy · topologicpy
 - [**Analisis de Estabilidad del S&P500**](https://github.com/Daniel-A-GS/Analisis-de-Estabilidad-de-Mercados-Financieros)
 - [**Generador de Redes IIoT y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)
 
-# 🐼 Sobre mí
-- Matemático Aplicado, Facultad de Ciencias, UNAM. 
-- Profesor Adjunto, [Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa.](https://www.fciencias.unam.mx/directorio/104475)
-- Mis intereses: Geopolítica, finanzas, ciencia de datos, machine learning y sistemas complejos
-
 # 🎓 Cursos Impartidos:
 - [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-26-2). Febrero 2026 - Mayo 2026 @ UNAM
 - [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1). Agosto 2025 - Diciembre 2025 @ UNAM
+
+# 🐼 Sobre mí
+- Matemático Aplicado, Facultad de Ciencias, UNAM. 
+- Profesor Adjunto, [Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa.](https://www.fciencias.unam.mx/directorio/104475)
+- Mis intereses: Geopolítica, finanzas, ciencia de datos, machine learning y sistemas complejos.
 
 # 📬 Contactame
 

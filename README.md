@@ -5,26 +5,28 @@
 [![Contributor @](https://img.shields.io/badge/Contributor_@-Py3Plex-b10c43?style=for-the-badge&logo=github)](https://github.com/SkBlaz/Py3Plex)
 
 # 💡 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### Data Analysis
-NumPy · Pandas · Matplotlib · Seaborn
+* **Data Manipulation & Visualization **
+  * *Python:* NumPy, Pandas, Matplotlib, Seaborn
+  * *R:* 
 
-### Machine Learning
-Scikit-learn · FinRL · PyG · DGL · Scikit-network
+* **Machine Learning & Deep Learning**
+  * *Python:* Scikit-learn, FinRL, PyG, DGL, Scikit-network
+  * *R:* 
 
-### Network Science
-NetworkX · Teneto · pymnet · Py3Plex
+* **Network Science & Complex Systems**
+  * *Python:* NetworkX, Teneto, pymnet, Py3Plex
+  * *R:*
 
-### Topological Data Analysis  
-XGI · HyperNetX
+* **Topological Data Analysis (TDA) & HON**
+  * *Python:* XGI, HyperNetX
+
+* **Others**
+  * SQL, Git, Anaconda, LaTeX, Markdown
 
 # 🏆 Concursos
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc) Noviembre 2025 [[Código](https://github.com/Daniel-A-GS/Smart-Scouting-and-Team-Simulation)]

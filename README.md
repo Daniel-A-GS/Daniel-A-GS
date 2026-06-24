@@ -12,15 +12,12 @@
 
 * **Data Manipulation & Visualization **
   * *Python:* NumPy, Pandas, Matplotlib, Seaborn
-  * *R:* 
 
 * **Machine Learning & Deep Learning**
   * *Python:* Scikit-learn, FinRL, PyG, DGL, Scikit-network
-  * *R:* 
 
 * **Network Science & Complex Systems**
   * *Python:* NetworkX, Teneto, pymnet, Py3Plex
-  * *R:*
 
 * **Topological Data Analysis (TDA) & HON**
   * *Python:* XGI, HyperNetX
@@ -48,8 +45,8 @@
 # 🐼 Sobre mí
 - Matemático Aplicado, Facultad de Ciencias, UNAM.
   - Tesis: Sistemas Complejos en la Guerra: Un Análisis de Conflictos Geopolíticos mediante Redes Complejas Multicapa
-- Profesor Adjunto, [Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa.](https://www.fciencias.unam.mx/directorio/104475)
-- Mis intereses: Geopolítica, finanzas, ciencia de datos, machine learning y sistemas complejos.
+- Profesor Adjunto del [Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa y Proyecto 1: Modelos probabilísticos para variables latentes](https://www.fciencias.unam.mx/directorio/104475)
+- Mis intereses: Geopolítica, finanzas cuantitativas, ciencia de datos, machine learning y sistemas complejos.
 
 # 📬 Contactame
 

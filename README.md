@@ -37,9 +37,13 @@
 - [**Analisis de Estabilidad del S&P500**](https://github.com/Daniel-A-GS/Analisis-de-Estabilidad-de-Mercados-Financieros)
 - [**Generador de Redes IIoT y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)
 
-# 🎓 Cursos Impartidos:
-- [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-26-2). Febrero 2026 - Mayo 2026 @ UNAM
-- [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1). Agosto 2025 - Diciembre 2025 @ UNAM
+# 🎓 Cursos Impartidos (UNAM):
+- [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-27-1). Agosto 2026 - Diciembre 2026
+- [**Modelos probabilísticos para variables latentes**](https://github.com/Daniel-A-GS/Probabilidad-en-variables-latentes-27-1). Agosto 2026 - Diciembre 2026
+
+- [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-26-2). Febrero 2026 - Mayo 2026
+
+- [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1). Agosto 2025 - Diciembre 2025
 
 # 🐼 Sobre mí
 - Matemático Aplicado, Facultad de Ciencias, UNAM.

@@ -4,27 +4,6 @@
 
 [![Contributor @](https://img.shields.io/badge/Contributor_@-Py3Plex-b10c43?style=for-the-badge&logo=github)](https://github.com/SkBlaz/Py3Plex)
 
-# 💡 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-* **Data Manipulation & Visualization **
-  * *Python:* NumPy, Pandas, Matplotlib, Seaborn
-
-* **Machine Learning & Deep Learning**
-  * *Python:* Scikit-learn, FinRL, PyG, DGL, Scikit-network
-
-* **Network Science & Complex Systems**
-  * *Python:* NetworkX, Teneto, pymnet, Py3Plex
-
-* **Topological Data Analysis (TDA) & HON**
-  * *Python:* XGI, HyperNetX
-
-* **Others**
-  * SQL, Git, Anaconda, LaTeX, Markdown
-
 # 🏆 Concursos
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc) Noviembre 2025 [[Código](https://github.com/Daniel-A-GS/Smart-Scouting-and-Team-Simulation)]
 - 5th place on [**2025 MeIA (UNAM) - Sargazo prediction**](https://www.kaggle.com/competitions/meia-2025-sargazo-prediction/leaderboard) Junio 2025 [[Código](https://www.kaggle.com/code/danielagarciasanchez/sargazomeia2025)]

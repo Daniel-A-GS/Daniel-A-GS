@@ -4,6 +4,12 @@
 
 [![Contributor @](https://img.shields.io/badge/Contributor_@-Py3Plex-b10c43?style=for-the-badge&logo=github)](https://github.com/SkBlaz/Py3Plex)
 
+# 🐼 Sobre mí
+- Matemático Aplicado, Facultad de Ciencias, UNAM.
+  - Tesis: Sistemas Complejos en la Guerra: Un Análisis de Conflictos Geopolíticos mediante Redes Complejas Multicapa
+- Profesor Adjunto del [Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa y Proyecto 1: Modelos probabilísticos para variables latentes](https://www.fciencias.unam.mx/directorio/104475)
+- Mis intereses: Geopolítica, finanzas cuantitativas, ciencia de datos, machine learning y sistemas complejos.
+
 # 🏆 Concursos
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc) Noviembre 2025 [[Código](https://github.com/Daniel-A-GS/Smart-Scouting-and-Team-Simulation)]
 - 5th place on [**2025 MeIA (UNAM) - Sargazo prediction**](https://www.kaggle.com/competitions/meia-2025-sargazo-prediction/leaderboard) Junio 2025 [[Código](https://www.kaggle.com/code/danielagarciasanchez/sargazomeia2025)]
@@ -20,12 +26,6 @@
 - [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-26-2). Febrero 2026 - Mayo 2026
 
 - [**Redes Complejas**](https://github.com/Daniel-A-GS/Redes-Complejas-26-1). Agosto 2025 - Diciembre 2025
-
-# 🐼 Sobre mí
-- Matemático Aplicado, Facultad de Ciencias, UNAM.
-  - Tesis: Sistemas Complejos en la Guerra: Un Análisis de Conflictos Geopolíticos mediante Redes Complejas Multicapa
-- Profesor Adjunto del [Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa y Proyecto 1: Modelos probabilísticos para variables latentes](https://www.fciencias.unam.mx/directorio/104475)
-- Mis intereses: Geopolítica, finanzas cuantitativas, ciencia de datos, machine learning y sistemas complejos.
 
 # 📬 Contactame
 

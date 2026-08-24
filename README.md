@@ -14,7 +14,7 @@
 - Finalist @ ​[**2025 ISAC (ITAM) – Sports Analytics Hackathon**](https://luma.com/e3thtn3j?lm_api_id=evt-nl6g0JJ73sWTTru&lm_medium=blast&lm_source=event&tk=Oblwtc) Noviembre 2025 [[Código](https://github.com/Daniel-A-GS/Smart-Scouting-and-Team-Simulation)]
 - 5th place on [**2025 MeIA (UNAM) - Sargazo prediction**](https://www.kaggle.com/competitions/meia-2025-sargazo-prediction/leaderboard) Junio 2025 [[Código](https://www.kaggle.com/code/danielagarciasanchez/sargazomeia2025)]
 
-# 🌟 Proyectos Destacados
+# 🌟 Proyectos
 - [**Optimización de portafolios con RL (PPO)**](https://github.com/Daniel-A-GS/Optimizacion-de-Portafolios-Aprendizaje-por-Refuerzo)
 - [**Analisis de Estabilidad del S&P500**](https://github.com/Daniel-A-GS/Analisis-de-Estabilidad-de-Mercados-Financieros)
 - [**Generador de Redes IIoT y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)

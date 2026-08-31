@@ -15,9 +15,9 @@
 - 5th place on [**2025 MeIA (UNAM) - Sargazo prediction**](https://www.kaggle.com/competitions/meia-2025-sargazo-prediction/leaderboard) Junio 2025 [[Código](https://www.kaggle.com/code/danielagarciasanchez/sargazomeia2025)]
 
 # 🌟 Proyectos
-- [**Optimización de portafolios con RL (PPO)**](https://github.com/Daniel-A-GS/Optimizacion-de-Portafolios-Aprendizaje-por-Refuerzo)
-- [**Analisis de Estabilidad del S&P500**](https://github.com/Daniel-A-GS/Analisis-de-Estabilidad-de-Mercados-Financieros)
-- [**Generador de Redes IIoT y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)
+- [**Optimización de portafolios con Reinforcement Learning (Proximal Policy Optimization)**](https://github.com/Daniel-A-GS/Optimizacion-de-Portafolios-Aprendizaje-por-Refuerzo)
+- [**Analisis de Estabilidad del S&P500 mediante redes temporales**](https://github.com/Daniel-A-GS/Analisis-de-Estabilidad-de-Mercados-Financieros)
+- [**Generador de Redes del Internet de las Cosas Industrial (IIoT) y simulación de propagación de malware**](https://github.com/Daniel-A-GS/Generador-de-Redes-IIoT-y-Propagacion-de-Malware)
 
 # 🎓 Cursos Impartidos (UNAM):
 - [**Redes Complejas Multicapa y de Orden Superior**](https://github.com/Daniel-A-GS/Redes-Complejas-Multicapa-27-1). Agosto 2026 - Diciembre 2026

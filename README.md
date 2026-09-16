@@ -85,7 +85,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Daniel-A-GS">Daniel-A-GS</a></i>
-</p>

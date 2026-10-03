@@ -39,7 +39,7 @@
 
 ### 📃 Certificaciones
 
-</p><img width="302" height="302" alt="google-ai-professional-certificate" src="https://github.com/user-attachments/assets/1530aca4-a7b4-4bbe-842f-8249c13dea4f" />
+</p><img width="200" height="200" alt="google-ai-professional-certificate" src="https://github.com/user-attachments/assets/1530aca4-a7b4-4bbe-842f-8249c13dea4f" />
 
 ### 🏆 Concursos
 

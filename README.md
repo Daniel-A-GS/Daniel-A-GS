@@ -2,7 +2,8 @@
   <a href="https://github.com/Daniel-A-GS">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=826&text=Hola%2C%20soy%20Daniel%20Garc%C3%ADa" alt="Hola, soy Daniel García" />
   </a>
-</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=895&height=44&lines=Network%20Data%20Scientist%20%7C%20Complex%20Systems%20%26%20HONs%20%7C%20ML%20%26%20RL" alt="Typing headlines" />
@@ -35,6 +36,10 @@
   - Tesis: **Sistemas Complejos en la Guerra: Un Análisis de Conflictos Geopolíticos mediante Redes Complejas Multicapa**
 - Profesor Adjunto del [**Seminario de Matemáticas Aplicadas II: Redes Complejas Multicapa y Proyecto 1: Modelos probabilísticos para variables latentes**](https://www.fciencias.unam.mx/directorio/104475)
 - Mis intereses: **Geopolítica, finanzas cuantitativas, ciencia de datos, machine learning y sistemas complejos.**
+
+### 📃 Certificaciones
+
+</p><img width="302" height="302" alt="google-ai-professional-certificate" src="https://github.com/user-attachments/assets/1530aca4-a7b4-4bbe-842f-8249c13dea4f" />
 
 ### 🏆 Concursos
 
